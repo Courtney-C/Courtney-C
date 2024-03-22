@@ -9,7 +9,7 @@
        <ul>
         <li>🎓 &nbsp; BS in Biomedical Engineering at <a href="https://bme.engineering.arizona.edu/">UofA</a></li>
         <li>📚 &nbsp; Studying PhD in Biomedical Engineering at UofA in the <a href="https://msbil.arizona.edu/">MSBILab</a></li>
-        <li>🤔 &nbsp; Interested in conventional and alternative diffusion imaging in pre-clinical MRI </li>
+        <li>🤔 &nbsp; Interested in conventional and alternative diffusion imaging in MRI </li>
          <li>🧗‍♀️ &nbsp; Fun facts about me I enjoy climbing, baking, reading, and any new adventure that comes my way</li>
        </ul>
        <p align="center">
