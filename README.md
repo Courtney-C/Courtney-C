@@ -7,8 +7,8 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.S. in Biomedical Engineering at <a href="https://bme.engineering.arizona.edu/">UofA</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>🎓 &nbsp; BS in Biomedical Engineering at <a href="https://bme.engineering.arizona.edu/">UofA</a></li>
+        <li>📚 &nbsp; Studying PhD in Biomedical Engineering at UofA in the <a href="https://msbil.arizona.edu/">MSBILab</a></li>
         <li>👑 &nbsp; Junior Java Back-end Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
