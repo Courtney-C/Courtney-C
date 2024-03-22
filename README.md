@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Courtney Comrie
-![]()
+![](https://komarev.com/ghpvc/?username=your-Courtney-C&color=0069b4)
 <table>
   <tr>
     <td>
