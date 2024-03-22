@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Courtney Comrie
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+![]()
 <table>
   <tr>
     <td>
@@ -9,8 +9,7 @@
        <ul>
         <li>🎓 &nbsp; BS in Biomedical Engineering at <a href="https://bme.engineering.arizona.edu/">UofA</a></li>
         <li>📚 &nbsp; Studying PhD in Biomedical Engineering at UofA in the <a href="https://msbil.arizona.edu/">MSBILab</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>🤔 &nbsp; Interested in conventional and alternative diffusion imaging in pre-clinical MRI </li>
        </ul>
        <p align="center">
          <br>
