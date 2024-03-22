@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <h2> 💻 &nbsp;About Me </h2>
+      <h2> U+1F9E0 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; BS in Biomedical Engineering at <a href="https://bme.engineering.arizona.edu/">UofA</a></li>
         <li>📚 &nbsp; Studying PhD in Biomedical Engineering at UofA in the <a href="https://msbil.arizona.edu/">MSBILab</a></li>
